@@ -6,10 +6,6 @@ tags:
   - ux-project
 ---
 
-# UX/UI Project
-
-# {{title}}
-
 <section class="portfolio" id="portfolio">
     <div class="center">
       <h2>My Portfolio</h2>
@@ -23,6 +19,12 @@ tags:
         <p>This is a 3D cityscape that I made using Adobe Illustrator.</p>
       </div>
   
+      <div class="box">
+        <img src="/images/am.jpg" alt="">
+        <h5>Self-portrait</h5>
+        <p>This a portrait I made of myself merging with nature in Adobe Photoshop.</p>
+      </div>
+
       <div class="box">
         <img src="/images/am.jpg" alt="">
         <h5>Self-portrait</h5>
