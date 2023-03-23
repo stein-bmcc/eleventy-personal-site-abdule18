@@ -20,18 +20,39 @@ siteTitle: My Personal Website.
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="icon.png">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/nav.css">
     </head>
   <body>
     <header class="site-header">
       {% include "navigation.njk" %}
     </header>
+
+    <header class="site-header">
+        <!-- add site wide header content here -->
+        <!-- <div class="site-title">
+            <h1>Abdule Touray</h1>
+        </div> -->
+
+        <nav class="site-nav">
+            <div class="logo">
+                <h1>Abdule Touray</h1>
+            </div>
+            <a href="#" class="hamburger" id="nav-toggle"><span></span></a>
+            <div class="links" id="nav-links">
+                <a href="/home">Home</a>
+                <a href="/about">About</a>
+            </div>
+          </nav>
+    </header>
+
   
-  <main class="main page-content">{{ content | safe }}</main>
+  <main class="main page-content">
+  {{ content | safe }}</main>
 
     <footer class="site-footer">
-      <!-- Add your footer content here -->
+        <!-- add site-wide footer content here -->
+        <p>Copyright © 2023 Abdule Touray</p>
     </footer>
   </body>
     <!-- Load CDN version of jQuery. For other versions visit this page: https://code.jquery.com/jquery/ -->

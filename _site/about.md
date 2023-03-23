@@ -1,12 +1,37 @@
 ---
 title: Welcome
-date: 3/14/23
+date: 
 layout: base
 tags:
   - Project
   - about
 ---
-
-# About
-
-# {{title}}
+<section class="skills" id="skills">
+        <div class="center">
+          <h2>My Skills</h2>
+          <p>As a student who is just starting out in the design field, I am eager to learn and grow my skills in UX, Graphic, and Web Design. I am a motivated and enthusiastic learner, and I am always looking for new design challenges to tackle. I am confident in my ability to bring value to any design project, and I am eager to continue building my portfolio and learning from experienced designers.</p>
+        </div>
+        <div class="skill-content">
+          <div class="row">
+            <box-icon name='cog'></box-icon>
+            <h3>UX Designer</h3>
+            <p>As a student who has just started learning UX/UI Design, I am eager to build my foundation in user-centered design methodologies and principles. I have been studying design tools such as Sketch, Figma, and Adobe Creative Suite, and have a strong understanding of the design thinking process and how to conduct user research. I have also started working on personal design projects to apply my knowledge and build my portfolio. I am a quick learner and am eager to grow my skills in UX Design, and I am excited about the opportunity to work on real-world design challenges.</p>
+      
+          </div>
+      
+          <div class="skill-content">
+            <div class="row">
+              <box-icon name='cog'></box-icon>
+              <h3>Web Designer</h3>
+              <p>As a beginner in web design, I am constantly learning new skills and techniques to improve my craft. I am passionate about creating visually appealing and user-friendly websites that effectively convey a message or brand. With each project, I am dedicated to understanding the client's needs and collaborating with them to achieve their goals. I am proficient in HTML, CSS, and JavaScript, and I am eager to continue expanding my knowledge and experience in the field. I am excited to showcase my work and grow as a web designer through new challenges and opportunities.</p>
+      
+            </div>
+      
+            <div class="skill-content">
+              <div class="row">
+                <box-icon name='cog'></box-icon>
+                <h3>Graphic Designer</h3>
+                <p>As a beginner Graphic Designer, I have a strong understanding of design fundamentals such as typography, color theory, and composition. I am proficient in design tools such as Adobe Illustrator, Photoshop, and InDesign, and I have experience working on personal design projects such as logos, brochures, and social media graphics. I am eager to continue learning and growing my skills in graphic design, and I am excited about the opportunity to work on real-world design challenges.</p>
+              </div>
+        </div>
+      </section>
