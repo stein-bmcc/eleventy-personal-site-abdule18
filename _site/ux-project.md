@@ -20,8 +20,8 @@ tags:
       </div>
   
       <div class="box">
-        <img src="/images/am.jpg" alt="">
-        <h5>Self-portrait</h5>
+        <img src="/images/app-mockup.png" alt="">
+        <h5>App-Mockup</h5>
         <p>This a portrait I made of myself merging with nature in Adobe Photoshop.</p>
       </div>
 
