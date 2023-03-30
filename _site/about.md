@@ -11,6 +11,13 @@ tags:
           <h2>My Skills</h2>
           <p>As a student who is just starting out in the design field, I am eager to learn and grow my skills in UX, Graphic, and Web Design. I am a motivated and enthusiastic learner, and I am always looking for new design challenges to tackle. I am confident in my ability to bring value to any design project, and I am eager to continue building my portfolio and learning from experienced designers.</p>
         </div>
+
+        <ul>
+          {% for post in collections.home %}
+              <li><a href="post.url">{{post.data.title}}</a></li>
+          {% endfor %}
+          </ul>
+
         <div class="skill-content">
           <div class="row">
             <box-icon name='cog'></box-icon>
