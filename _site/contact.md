@@ -9,7 +9,7 @@ tags:
   <div class="contact-form">
     <h2>How To Reach Me</h2>
     <p>My email is: atovray18@gmail.com</p>
-    <form action="portfolio.html">
+    <form action="/thank-you" netlify>
       <input type="" placeholder="Your Name">
       <input type="email" name="" placeholder="Your Email" value="">
       <input type="text" name="" id="" placeholder="Write a subject" value="">
