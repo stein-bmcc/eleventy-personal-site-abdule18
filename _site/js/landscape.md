@@ -10,7 +10,7 @@ tags:
         <img src="/images/abdul-landscape.jpg" alt="">
         <h5>Landscape</h5>
         <p>This is a landscape that I made in Adobe Illustrator.</p>
-        <a href="ux-project/landscape.md" class="card-link">
+        <a href="ux-project/landscape" class="card-link">
       </div>
     <!-- </div>
     <section class="portfolio-content">
