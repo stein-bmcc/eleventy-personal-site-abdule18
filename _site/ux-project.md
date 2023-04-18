@@ -22,7 +22,7 @@ tags:
       <div class="portfolio-content">
         <div class="box">
           <img src="/images/cunyart.jpg" alt="">
-          <h5>Cityscape</h5>
+          <h5>CUNY Art</h5>
           <p>This is a CUNY Art Mockup that I made using Figma</p>
         </div>
   
