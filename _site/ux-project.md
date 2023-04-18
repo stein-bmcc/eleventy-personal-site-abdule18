@@ -18,6 +18,13 @@ tags:
         <h5>Cityscape</h5>
         <p>This is a 3D cityscape that I made using Adobe Illustrator.</p>
       </div>
+
+      <div class="portfolio-content">
+        <div class="box">
+          <img src="/images/cunyart.jpg" alt="">
+          <h5>Cityscape</h5>
+          <p>This is a 3D cityscape that I made using Adobe Illustrator.</p>
+        </div>
   
       <div class="box">
         <img src="/images/app-mockup.png" alt="">
