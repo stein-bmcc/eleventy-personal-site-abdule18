@@ -9,8 +9,8 @@ tags:
 <div class="box">
         <img src="/images/abdul-landscape.jpg" alt="">
         <h5>Landscape</h5>
-        <p>This is a landscape that I made in Adobe Illustrator.</p>
         <a href="ux-project/landscape" class="card-link">
+        <p>This is a landscape that I made in Adobe Illustrator.</p>
       </div>
     <!-- </div>
     <section class="portfolio-content">
