@@ -23,7 +23,7 @@ tags:
         <div class="box">
           <img src="/images/cunyart.jpg" alt="">
           <h5>Cityscape</h5>
-          <p>This is a 3D cityscape that I made using Adobe Illustrator.</p>
+          <p>This is a CUNY Art Mockup that I made using Figma</p>
         </div>
   
       <div class="box">
