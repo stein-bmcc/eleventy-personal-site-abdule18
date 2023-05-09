@@ -2,6 +2,7 @@
 title: Welcome
 date:
 layout: base
+pageID: home
 tags:
   - home
   - welcome
@@ -10,8 +11,13 @@ tags:
 ---
 
 
-<h3>Hello, World!<h3/>
-<h2 class="mainHeading">Main Content</h2>
-<section class="content">
+<main class="content">
+  <h1>Hello, World!<br>My Name is Abdule Touray</h1>
+  <p>Welcome to my world of design</p>
+</main>
+<img src="/images/my.png" class="feature">
+  
+
+<!-- <section class="content">
   <p></p>
-</section>
+</section> -->

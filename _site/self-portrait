@@ -1,0 +1,13 @@
+---
+title: Landscape
+date:
+layout: base
+tags:
+  - landscape
+---
+<div class="box ">
+    <img src="/images/am.jpg" alt="">
+    <h5>Self-portrait</h5>
+    <a href="project/self-portrait" class="card-link"></a>
+    <p>This a portrait I made of myself merging with nature in Adobe Photoshop.</p>
+  </div>
