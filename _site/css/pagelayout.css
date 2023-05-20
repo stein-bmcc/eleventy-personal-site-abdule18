@@ -22,14 +22,14 @@
   }
   /* general page styles */
   .content h1{
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 100;
     margin-top: 24px;
     margin-bottom: 15px;
     color: #232d60;
   }
   .content p{
-    font-size: 30px;
+    font-size: 25px;
     color: #6a7199;
   }
   .content{
