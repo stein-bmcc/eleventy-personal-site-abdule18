@@ -4,9 +4,10 @@ const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
 
 module.exports = function(eleventyConfig) {
 
-  eleventyConfig.addPassthroughCopy('./_site/images');
-  eleventyConfig.addPassthroughCopy('./_site/css');
-  eleventyConfig.addPassthroughCopy('./_site/js');
+  eleventyConfig.addPassthroughCopy('./_site/imgs');
+  // eleventyConfig.addPassthroughCopy('./_site/css');
+  // eleventyConfig.addPassthroughCopy('./_site/js');
+  eleventyConfig.addPassthroughCopy('./_site/assets');
 
   eleventyConfig.addLayoutAlias('base', 'pageTemplates/base.njk');
   eleventyConfig.addLayoutAlias('page', 'pageTemplates/page.njk');
