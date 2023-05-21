@@ -43,11 +43,6 @@ tags:
                                     <p class="mb-0">Hey there, my name is <span>Abdule Touray</span>, I am a student currently studying multimedia programming and design. My focus is on web design and UX/UI, and I'm really dedicated to mastering these skills. I believe that creating visually appealing and intuitive interfaces is key to delivering great user experiences, whether it's on websites, apps, or other digital products. I'm always striving to learn more and improve my craft, and I'm excited to see where my passion for design and technology will take me. Overall, I'd say I'm a creative and imaginative person with a drive to succeed, and I'm confident that I'll make a real impact in the world of web design.</p>
                                 </div>
                             </div>
-                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
-                                <div class="bg-base p-4 rounded-4 shadow-effect">
-                                  <img class="rounded-4" src="./imgs/cityscape.jpg" alt="">
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -109,7 +104,7 @@ tags:
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>Flyer and Poster Design</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <p>I designed a captivating flyer that merges Surrealism and Afrofuturism, creating a visually striking blend of imagination and futuristic themes. It features dreamlike landscapes, abstract shapes, and vibrant colors, inviting viewers into an enchanting world where boundaries fade away.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -121,7 +116,7 @@ tags:
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>Anime Mockup App Editing with Figma</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <p>I created an anime mockup app in Figma that offers a visually appealing and user-friendly interface. It allows users to explore a wide range of anime titles, access detailed information, and personalize their watchlist for an enhanced viewing experience.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -132,8 +127,8 @@ tags:
                                 <img class="rounded-4" src="./imgs/abdul-landscape.jpg" alt="">
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Landscape Photo Editing with Illustrator</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <h4>Landscape Editing with Illustrator</h4>
+                                <p>I designed a stunning landscape in Illustrator, blending vibrant colors, intricate details, and surreal elements. The artwork captivates with its imaginative and serene atmosphere, inviting viewers to explore and be inspired.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -144,8 +139,8 @@ tags:
                                 <img class="rounded-4" src="./imgs/cityscape.jpg" alt="">
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Cityscape Photo Editing with Illustrator</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <h4>Cityscape Editing with Illustrator</h4>
+                                <p>I created a captivating cityscape in Illustrator, featuring dynamic architecture, vibrant city lights, and bustling streets. The artwork captures the energy and modernity of a bustling metropolis, inviting viewers to explore the urban landscape.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -157,7 +152,7 @@ tags:
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>CUNY Art Website Mockup Editing with Figma</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <p>I created a CUNY Art website mockup in Figma, featuring a user-friendly design and captivating galleries. The sleek layout showcases the artistic talent of CUNY students, offering an enjoyable browsing experience.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -169,7 +164,7 @@ tags:
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>Photos Edition and Landscape Merging</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <p>In my Photoshop creation, I merged a photo of myself with the beauty of nature, blending seamlessly to form a harmonious composition. The image reflects the deep connection between humans and the natural world, capturing a sense of serenity and oneness.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -181,7 +176,7 @@ tags:
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>CUNY Designer Program Finder Website</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <p>I created a CUNY website with a user-friendly interface, modern design, and responsive layout. It provides essential information for students and faculty, ensuring a seamless browsing experience.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -193,7 +188,7 @@ tags:
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>One Piece Anime Website</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <p>I created a dynamic One Piece show website with engaging visuals, interactive features, and seamless navigation. Users can access the latest episodes, character profiles, and behind-the-scenes content for an immersive experience.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -205,7 +200,7 @@ tags:
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>Programing</h4>
-                                <p>This program I made because it looks cool and really interesrting to me.</p>
+                                <p>This project showcasing a creative code, graphics, and interactivity. It offers a visually engaging experience with dynamic animations and user interaction.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -217,7 +212,7 @@ tags:
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>Vector Avatar Editing with Illustrator</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <p>I created a vector avatar using Illustrator, which showcases a unique and personalized representation. The avatar incorporates clean lines, vibrant colors, and distinct details, resulting in a visually appealing and expressive character. The use of vector graphics allows for scalability and versatility, making it suitable for various applications such as profile pictures, social media, or digital branding.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -228,8 +223,8 @@ tags:
                                 <img class="rounded-4" src="./imgs/web.gif" alt="">
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Startup Landing Page</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the elements you could ever need to put together</p>
+                                <h4>GIF Anime</h4>
+                                <p>I created a captivating GIF anime of myself using Photoshop. This animated sequence brings my persona to life with vibrant colors and fluid movements. It's a fun and engaging representation that adds an animated charm to my digital presence.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
